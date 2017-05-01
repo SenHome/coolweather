@@ -2,17 +2,12 @@ package example.sen.com.coolweather.db;
 
 import org.litepal.crud.DataSupport;
 
-/**
- * Created by Administrator on 2017/4/11.
- *
- * 省份
- */
-
 public class Province extends DataSupport {
+
     private int id;
-    //省名
+
     private String provinceName;
-    //省得代号
+
     private int provinceCode;
 
     public int getId() {
