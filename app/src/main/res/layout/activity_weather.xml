@@ -52,11 +52,10 @@
 
         <fragment
             android:id="@+id/choose_area_fragment"
-            android:name="example.sen.com.coolweather.ChooseAreaFragment"
+            android:name="android.coolweather.com.coolweather.ChooseAreaFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_gravity="start"
-            />
+            android:layout_gravity="start" />
 
     </android.support.v4.widget.DrawerLayout>
 

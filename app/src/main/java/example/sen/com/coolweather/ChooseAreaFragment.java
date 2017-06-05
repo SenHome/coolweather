@@ -2,6 +2,7 @@ package example.sen.com.coolweather;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
+import android.coolweather.com.coolweather.R;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.util.Log;

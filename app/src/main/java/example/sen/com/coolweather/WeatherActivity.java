@@ -2,6 +2,7 @@ package example.sen.com.coolweather;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.coolweather.com.coolweather.R;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
